@@ -1,0 +1,349 @@
+date,category_id,category_title,revenue
+2024-01-01,1,Portable Computers,15536181248.0
+2024-01-02,1,Portable Computers,13874393088.0
+2024-01-03,1,Portable Computers,14776297472.0
+2024-01-04,1,Portable Computers,12284600320.0
+2024-01-05,1,Portable Computers,13584860160.0
+2024-01-06,1,Portable Computers,10683982848.0
+2024-01-07,1,Portable Computers,12552284160.0
+2024-01-08,1,Portable Computers,12271323136.0
+2024-01-09,1,Portable Computers,11981049856.0
+2024-01-10,1,Portable Computers,11894761472.0
+2024-01-11,1,Portable Computers,13123053568.0
+2024-01-12,1,Portable Computers,11309981696.0
+2024-01-01,2,Cooling Systems,5722296832.0
+2024-01-02,2,Cooling Systems,6205076480.0
+2024-01-03,2,Cooling Systems,6226226688.0
+2024-01-04,2,Cooling Systems,6510338560.0
+2024-01-05,2,Cooling Systems,6490111488.0
+2024-01-06,2,Cooling Systems,6623006720.0
+2024-01-07,2,Cooling Systems,6234179072.0
+2024-01-08,2,Cooling Systems,6342443008.0
+2024-01-09,2,Cooling Systems,6312623104.0
+2024-01-10,2,Cooling Systems,6224419328.0
+2024-01-11,2,Cooling Systems,6414085632.0
+2024-01-12,2,Cooling Systems,6351327744.0
+2024-01-01,3,Frozen Storage Units,1230037120.0
+2024-01-02,3,Frozen Storage Units,1320681344.0
+2024-01-03,3,Frozen Storage Units,1300192000.0
+2024-01-04,3,Frozen Storage Units,1369647104.0
+2024-01-05,3,Frozen Storage Units,1558137088.0
+2024-01-06,3,Frozen Storage Units,1658030720.0
+2024-01-07,3,Frozen Storage Units,1755641856.0
+2024-01-08,3,Frozen Storage Units,1598419840.0
+2024-01-09,3,Frozen Storage Units,1548877824.0
+2024-01-10,3,Frozen Storage Units,1582721920.0
+2024-01-11,3,Frozen Storage Units,1304567808.0
+2024-01-12,3,Frozen Storage Units,1168861696.0
+2024-01-01,4,Laundry Machines,7086988800.0
+2024-01-02,4,Laundry Machines,5907485696.0
+2024-01-03,4,Laundry Machines,7820280320.0
+2024-01-04,4,Laundry Machines,7833885184.0
+2024-01-05,4,Laundry Machines,8389671424.0
+2024-01-06,4,Laundry Machines,8217547776.0
+2024-01-07,4,Laundry Machines,6718753280.0
+2024-01-08,4,Laundry Machines,7333486592.0
+2024-01-09,4,Laundry Machines,7926676992.0
+2024-01-10,4,Laundry Machines,7439392768.0
+2024-01-11,4,Laundry Machines,6458543616.0
+2024-01-12,4,Laundry Machines,6475670528.0
+2024-01-01,5,Dish Cleaning Machines,1741269888.0
+2024-01-02,5,Dish Cleaning Machines,1689896064.0
+2024-01-03,5,Dish Cleaning Machines,1610302336.0
+2024-01-04,5,Dish Cleaning Machines,1577592576.0
+2024-01-05,5,Dish Cleaning Machines,1622284288.0
+2024-01-06,5,Dish Cleaning Machines,1640969344.0
+2024-01-07,5,Dish Cleaning Machines,1602518784.0
+2024-01-08,5,Dish Cleaning Machines,1765636736.0
+2024-01-09,5,Dish Cleaning Machines,1562912128.0
+2024-01-10,5,Dish Cleaning Machines,1616393344.0
+2024-01-11,5,Dish Cleaning Machines,1497979776.0
+2024-01-12,5,Dish Cleaning Machines,1397320960.0
+2024-01-01,6,Microwave Cookers,1460181120.0
+2024-01-02,6,Microwave Cookers,1524237696.0
+2024-01-03,6,Microwave Cookers,1590080128.0
+2024-01-04,6,Microwave Cookers,1410452096.0
+2024-01-05,6,Microwave Cookers,1443964800.0
+2024-01-06,6,Microwave Cookers,1487105792.0
+2024-01-07,6,Microwave Cookers,1469897600.0
+2024-01-08,6,Microwave Cookers,1714989824.0
+2024-01-09,6,Microwave Cookers,1373128448.0
+2024-01-10,6,Microwave Cookers,1505140224.0
+2024-01-11,6,Microwave Cookers,1609792384.0
+2024-01-12,6,Microwave Cookers,1569451776.0
+2024-01-01,7,Kitchen Ventilation Systems,1000000000.0
+2024-01-02,7,Kitchen Ventilation Systems,1000000000.0
+2024-01-03,7,Kitchen Ventilation Systems,1000000000.0
+2024-01-04,7,Kitchen Ventilation Systems,1000000000.0
+2024-01-05,7,Kitchen Ventilation Systems,1000000000.0
+2024-01-06,7,Kitchen Ventilation Systems,1000000000.0
+2024-01-07,7,Kitchen Ventilation Systems,1000000000.0
+2024-01-08,7,Kitchen Ventilation Systems,1000000000.0
+2024-01-09,7,Kitchen Ventilation Systems,1000000000.0
+2024-01-10,7,Kitchen Ventilation Systems,1000000000.0
+2024-01-11,7,Kitchen Ventilation Systems,1000000000.0
+2024-01-12,7,Kitchen Ventilation Systems,1000000000.0
+2024-01-01,8,Integrated Stovetops,1117331072.0
+2024-01-02,8,Integrated Stovetops,1920821888.0
+2024-01-03,8,Integrated Stovetops,1874401536.0
+2024-01-04,8,Integrated Stovetops,1461829632.0
+2024-01-05,8,Integrated Stovetops,1766411392.0
+2024-01-06,8,Integrated Stovetops,1202076288.0
+2024-01-07,8,Integrated Stovetops,1491086464.0
+2024-01-08,8,Integrated Stovetops,1391011200.0
+2024-01-09,8,Integrated Stovetops,1440030208.0
+2024-01-10,8,Integrated Stovetops,1568701952.0
+2024-01-11,8,Integrated Stovetops,1377387264.0
+2024-01-12,8,Integrated Stovetops,1354010624.0
+2024-01-01,9,Cooking Appliances,1680067968.0
+2024-01-02,9,Cooking Appliances,1587840384.0
+2024-01-03,9,Cooking Appliances,1546739968.0
+2024-01-04,9,Cooking Appliances,1587319040.0
+2024-01-05,9,Cooking Appliances,1631923584.0
+2024-01-06,9,Cooking Appliances,1648269568.0
+2024-01-07,9,Cooking Appliances,1810517376.0
+2024-01-08,9,Cooking Appliances,1594535168.0
+2024-01-09,9,Cooking Appliances,1578355072.0
+2024-01-10,9,Cooking Appliances,1653854336.0
+2024-01-11,9,Cooking Appliances,1645777024.0
+2024-01-12,9,Cooking Appliances,1690009216.0
+2024-01-01,10,Baking Ovens,1363334400.0
+2024-01-02,10,Baking Ovens,1359867520.0
+2024-01-03,10,Baking Ovens,1317699456.0
+2024-01-04,10,Baking Ovens,1396617216.0
+2024-01-05,10,Baking Ovens,1253761920.0
+2024-01-06,10,Baking Ovens,1278741504.0
+2024-01-07,10,Baking Ovens,1353769600.0
+2024-01-08,10,Baking Ovens,1461250944.0
+2024-01-09,10,Baking Ovens,1484257280.0
+2024-01-10,10,Baking Ovens,1368840832.0
+2024-01-11,10,Baking Ovens,1507756160.0
+2024-01-12,10,Baking Ovens,1427754880.0
+2024-01-01,11,Climate Control Units,1000000000.0
+2024-01-02,11,Climate Control Units,1000000000.0
+2024-01-03,11,Climate Control Units,1000000000.0
+2024-01-04,11,Climate Control Units,1000000000.0
+2024-01-05,11,Climate Control Units,1000000000.0
+2024-01-06,11,Climate Control Units,1000000000.0
+2024-01-07,11,Climate Control Units,1000000000.0
+2024-01-08,11,Climate Control Units,1000000000.0
+2024-01-09,11,Climate Control Units,1000000000.0
+2024-01-10,11,Climate Control Units,1000000000.0
+2024-01-11,11,Climate Control Units,1000000000.0
+2024-01-12,11,Climate Control Units,1000000000.0
+2024-01-01,13,Digital Tablets,3086892288.0
+2024-01-02,13,Digital Tablets,2883058176.0
+2024-01-03,13,Digital Tablets,2921324800.0
+2024-01-04,13,Digital Tablets,2930095104.0
+2024-01-05,13,Digital Tablets,3169240832.0
+2024-01-06,13,Digital Tablets,2775995392.0
+2024-01-07,13,Digital Tablets,3036074496.0
+2024-01-08,13,Digital Tablets,2997424384.0
+2024-01-09,13,Digital Tablets,3011246848.0
+2024-01-10,13,Digital Tablets,3072872960.0
+2024-01-11,13,Digital Tablets,3166453504.0
+2024-01-12,13,Digital Tablets,2922621952.0
+2024-01-01,14,Display Screens,1369253760.0
+2024-01-02,14,Display Screens,1351126528.0
+2024-01-03,14,Display Screens,1478344320.0
+2024-01-04,14,Display Screens,1468371200.0
+2024-01-05,14,Display Screens,1388769024.0
+2024-01-06,14,Display Screens,1388731136.0
+2024-01-07,14,Display Screens,1514822528.0
+2024-01-08,14,Display Screens,1505411328.0
+2024-01-09,14,Display Screens,1336109312.0
+2024-01-10,14,Display Screens,1318289152.0
+2024-01-11,14,Display Screens,1363650176.0
+2024-01-12,14,Display Screens,1356885248.0
+2024-01-01,15,Mobile Phones & Refurbished Devices,39869808640.0
+2024-01-02,15,Mobile Phones & Refurbished Devices,42520457216.0
+2024-01-03,15,Mobile Phones & Refurbished Devices,37959876608.0
+2024-01-04,15,Mobile Phones & Refurbished Devices,48491905024.0
+2024-01-05,15,Mobile Phones & Refurbished Devices,37862924288.0
+2024-01-06,15,Mobile Phones & Refurbished Devices,39954329600.0
+2024-01-07,15,Mobile Phones & Refurbished Devices,37694226432.0
+2024-01-08,15,Mobile Phones & Refurbished Devices,47613095936.0
+2024-01-09,15,Mobile Phones & Refurbished Devices,41390968832.0
+2024-01-10,15,Mobile Phones & Refurbished Devices,48615718912.0
+2024-01-11,15,Mobile Phones & Refurbished Devices,42119872512.0
+2024-01-12,15,Mobile Phones & Refurbished Devices,40675442688.0
+2024-01-01,16,Flat-Screen TVs,9900886016.0
+2024-01-02,16,Flat-Screen TVs,12371675136.0
+2024-01-03,16,Flat-Screen TVs,11982238720.0
+2024-01-04,16,Flat-Screen TVs,11007000576.0
+2024-01-05,16,Flat-Screen TVs,11964413952.0
+2024-01-06,16,Flat-Screen TVs,9476743168.0
+2024-01-07,16,Flat-Screen TVs,9539527680.0
+2024-01-08,16,Flat-Screen TVs,11556530176.0
+2024-01-09,16,Flat-Screen TVs,11893150720.0
+2024-01-10,16,Flat-Screen TVs,11144552448.0
+2024-01-11,16,Flat-Screen TVs,10719470592.0
+2024-01-12,16,Flat-Screen TVs,9956320256.0
+2024-01-01,17,Floor Cleaning Devices,4308979712.0
+2024-01-02,17,Floor Cleaning Devices,4285002752.0
+2024-01-03,17,Floor Cleaning Devices,4799654400.0
+2024-01-04,17,Floor Cleaning Devices,4827881472.0
+2024-01-05,17,Floor Cleaning Devices,4845603840.0
+2024-01-06,17,Floor Cleaning Devices,5275744256.0
+2024-01-07,17,Floor Cleaning Devices,5169968640.0
+2024-01-08,17,Floor Cleaning Devices,4546676736.0
+2024-01-09,17,Floor Cleaning Devices,4831643648.0
+2024-01-10,17,Floor Cleaning Devices,4550407168.0
+2024-01-11,17,Floor Cleaning Devices,5009192448.0
+2024-01-12,17,Floor Cleaning Devices,4514551296.0
+2024-01-01,18,Fabric Care Appliances,1371402240.0
+2024-01-02,18,Fabric Care Appliances,1292512640.0
+2024-01-03,18,Fabric Care Appliances,1336625920.0
+2024-01-04,18,Fabric Care Appliances,1226602624.0
+2024-01-05,18,Fabric Care Appliances,1395649664.0
+2024-01-06,18,Fabric Care Appliances,1717102208.0
+2024-01-07,18,Fabric Care Appliances,1387376256.0
+2024-01-08,18,Fabric Care Appliances,1255142272.0
+2024-01-09,18,Fabric Care Appliances,1513009280.0
+2024-01-10,18,Fabric Care Appliances,1342386048.0
+2024-01-11,18,Fabric Care Appliances,1760591872.0
+2024-01-12,18,Fabric Care Appliances,1362996736.0
+2024-01-01,19,Electric Cookware,1000000000.0
+2024-01-02,19,Electric Cookware,1000000000.0
+2024-01-03,19,Electric Cookware,1000000000.0
+2024-01-04,19,Electric Cookware,1000000000.0
+2024-01-05,19,Electric Cookware,1000000000.0
+2024-01-06,19,Electric Cookware,1000000000.0
+2024-01-07,19,Electric Cookware,1000000000.0
+2024-01-08,19,Electric Cookware,1000000000.0
+2024-01-09,19,Electric Cookware,1000000000.0
+2024-01-10,19,Electric Cookware,1000000000.0
+2024-01-11,19,Electric Cookware,1000000000.0
+2024-01-12,19,Electric Cookware,1000000000.0
+2024-01-01,21,Smart Wearables,2343970560.0
+2024-01-02,21,Smart Wearables,2736588032.0
+2024-01-03,21,Smart Wearables,2554877184.0
+2024-01-04,21,Smart Wearables,2659772416.0
+2024-01-05,21,Smart Wearables,2355951872.0
+2024-01-06,21,Smart Wearables,2418830592.0
+2024-01-07,21,Smart Wearables,2585540864.0
+2024-01-08,21,Smart Wearables,2564249088.0
+2024-01-09,21,Smart Wearables,2500236544.0
+2024-01-10,21,Smart Wearables,2683301120.0
+2024-01-11,21,Smart Wearables,2700503808.0
+2024-01-12,21,Smart Wearables,2633674240.0
+2024-01-01,23,Hot Beverage Machines,1607982208.0
+2024-01-02,23,Hot Beverage Machines,1599911552.0
+2024-01-03,23,Hot Beverage Machines,1595236096.0
+2024-01-04,23,Hot Beverage Machines,1531834240.0
+2024-01-05,23,Hot Beverage Machines,1606983680.0
+2024-01-06,23,Hot Beverage Machines,1692246016.0
+2024-01-07,23,Hot Beverage Machines,1714673408.0
+2024-01-08,23,Hot Beverage Machines,1580125824.0
+2024-01-09,23,Hot Beverage Machines,1486465408.0
+2024-01-10,23,Hot Beverage Machines,1640390656.0
+2024-01-11,23,Hot Beverage Machines,1459187456.0
+2024-01-12,23,Hot Beverage Machines,1544556416.0
+2024-01-01,26,Kitchen Prep Appliances,1535738624.0
+2024-01-02,26,Kitchen Prep Appliances,1490215552.0
+2024-01-03,26,Kitchen Prep Appliances,1393816192.0
+2024-01-04,26,Kitchen Prep Appliances,1788019456.0
+2024-01-05,26,Kitchen Prep Appliances,1436358784.0
+2024-01-06,26,Kitchen Prep Appliances,1579865344.0
+2024-01-07,26,Kitchen Prep Appliances,1590134528.0
+2024-01-08,26,Kitchen Prep Appliances,1750613120.0
+2024-01-09,26,Kitchen Prep Appliances,1436676736.0
+2024-01-10,26,Kitchen Prep Appliances,1735775360.0
+2024-01-11,26,Kitchen Prep Appliances,1344698240.0
+2024-01-12,26,Kitchen Prep Appliances,1793382272.0
+2024-01-01,27,Electric Razors,1000000000.0
+2024-01-02,27,Electric Razors,1000000000.0
+2024-01-03,27,Electric Razors,1000000000.0
+2024-01-04,27,Electric Razors,1000000000.0
+2024-01-05,27,Electric Razors,1000000000.0
+2024-01-06,27,Electric Razors,1000000000.0
+2024-01-07,27,Electric Razors,1000000000.0
+2024-01-08,27,Electric Razors,1000000000.0
+2024-01-09,27,Electric Razors,1000000000.0
+2024-01-10,27,Electric Razors,1000000000.0
+2024-01-11,27,Electric Razors,1000000000.0
+2024-01-12,27,Electric Razors,1000000000.0
+2024-01-01,29,All-in-One Printers & Printers,1000000000.0
+2024-01-02,29,All-in-One Printers & Printers,1000000000.0
+2024-01-03,29,All-in-One Printers & Printers,1000000000.0
+2024-01-04,29,All-in-One Printers & Printers,1000000000.0
+2024-01-05,29,All-in-One Printers & Printers,1000000000.0
+2024-01-06,29,All-in-One Printers & Printers,1000000000.0
+2024-01-07,29,All-in-One Printers & Printers,1000000000.0
+2024-01-08,29,All-in-One Printers & Printers,1000000000.0
+2024-01-09,29,All-in-One Printers & Printers,1000000000.0
+2024-01-10,29,All-in-One Printers & Printers,1000000000.0
+2024-01-11,29,All-in-One Printers & Printers,1000000000.0
+2024-01-12,29,All-in-One Printers & Printers,1000000000.0
+2024-01-01,30,Electric Kettles & Heaters,1000000000.0
+2024-01-02,30,Electric Kettles & Heaters,1000000000.0
+2024-01-03,30,Electric Kettles & Heaters,1000000000.0
+2024-01-04,30,Electric Kettles & Heaters,1000000000.0
+2024-01-05,30,Electric Kettles & Heaters,1000000000.0
+2024-01-06,30,Electric Kettles & Heaters,1000000000.0
+2024-01-07,30,Electric Kettles & Heaters,1000000000.0
+2024-01-08,30,Electric Kettles & Heaters,1000000000.0
+2024-01-09,30,Electric Kettles & Heaters,1000000000.0
+2024-01-10,30,Electric Kettles & Heaters,1000000000.0
+2024-01-11,30,Electric Kettles & Heaters,1000000000.0
+2024-01-12,30,Electric Kettles & Heaters,1000000000.0
+2024-01-01,34,Sandwich Makers & Grills,1000000000.0
+2024-01-02,34,Sandwich Makers & Grills,1000000000.0
+2024-01-03,34,Sandwich Makers & Grills,1000000000.0
+2024-01-04,34,Sandwich Makers & Grills,1000000000.0
+2024-01-05,34,Sandwich Makers & Grills,1000000000.0
+2024-01-06,34,Sandwich Makers & Grills,1000000000.0
+2024-01-07,34,Sandwich Makers & Grills,1000000000.0
+2024-01-08,34,Sandwich Makers & Grills,1000000000.0
+2024-01-09,34,Sandwich Makers & Grills,1000000000.0
+2024-01-10,34,Sandwich Makers & Grills,1000000000.0
+2024-01-11,34,Sandwich Makers & Grills,1000000000.0
+2024-01-12,34,Sandwich Makers & Grills,1000000000.0
+2024-01-01,36,Mice & Keyboards,1617076480.0
+2024-01-02,36,Mice & Keyboards,1546392704.0
+2024-01-03,36,Mice & Keyboards,1450062848.0
+2024-01-04,36,Mice & Keyboards,1490878080.0
+2024-01-05,36,Mice & Keyboards,1521824768.0
+2024-01-06,36,Mice & Keyboards,1467707904.0
+2024-01-07,36,Mice & Keyboards,1458429440.0
+2024-01-08,36,Mice & Keyboards,1444224512.0
+2024-01-09,36,Mice & Keyboards,1474576256.0
+2024-01-10,36,Mice & Keyboards,1441622656.0
+2024-01-11,36,Mice & Keyboards,1391028992.0
+2024-01-12,36,Mice & Keyboards,1624442368.0
+2024-01-01,39,Desktop Computers,1606722432.0
+2024-01-02,39,Desktop Computers,1439918720.0
+2024-01-03,39,Desktop Computers,1625231872.0
+2024-01-04,39,Desktop Computers,1592512256.0
+2024-01-05,39,Desktop Computers,1827906944.0
+2024-01-06,39,Desktop Computers,1657993728.0
+2024-01-07,39,Desktop Computers,1604099840.0
+2024-01-08,39,Desktop Computers,1755675648.0
+2024-01-09,39,Desktop Computers,1459960320.0
+2024-01-10,39,Desktop Computers,1853762432.0
+2024-01-11,39,Desktop Computers,1825094528.0
+2024-01-12,39,Desktop Computers,1517943552.0
+2024-01-01,40,Audio Headsets,2788087040.0
+2024-01-02,40,Audio Headsets,3044262656.0
+2024-01-03,40,Audio Headsets,4265394688.0
+2024-01-04,40,Audio Headsets,4062525696.0
+2024-01-05,40,Audio Headsets,4048276992.0
+2024-01-06,40,Audio Headsets,3954122752.0
+2024-01-07,40,Audio Headsets,4587268608.0
+2024-01-08,40,Audio Headsets,3993613056.0
+2024-01-09,40,Audio Headsets,3947009280.0
+2024-01-10,40,Audio Headsets,4102823168.0
+2024-01-11,40,Audio Headsets,3503643136.0
+2024-01-12,40,Audio Headsets,4053492480.0
+2024-01-01,43,Communication Gadgets,1426848256.0
+2024-01-02,43,Communication Gadgets,1740692864.0
+2024-01-03,43,Communication Gadgets,1800664960.0
+2024-01-04,43,Communication Gadgets,1543773696.0
+2024-01-05,43,Communication Gadgets,1726813184.0
+2024-01-06,43,Communication Gadgets,1887799296.0
+2024-01-07,43,Communication Gadgets,1704540544.0
+2024-01-08,43,Communication Gadgets,1662739968.0
+2024-01-09,43,Communication Gadgets,1494500480.0
+2024-01-10,43,Communication Gadgets,1561306496.0
+2024-01-11,43,Communication Gadgets,1420449152.0
+2024-01-12,43,Communication Gadgets,1503471616.0
