@@ -1,0 +1,349 @@
+date,category_id,category_title,revenue
+2025-01-01,1,Portable Computers,14025256960.0
+2025-01-02,1,Portable Computers,10777006080.0
+2025-01-03,1,Portable Computers,14274459648.0
+2025-01-04,1,Portable Computers,10258782208.0
+2025-01-05,1,Portable Computers,12507478016.0
+2025-01-06,1,Portable Computers,13011328000.0
+2025-01-07,1,Portable Computers,13464009728.0
+2025-01-08,1,Portable Computers,12884076544.0
+2025-01-09,1,Portable Computers,11983765504.0
+2025-01-10,1,Portable Computers,11973094400.0
+2025-01-11,1,Portable Computers,13370076160.0
+2025-01-12,1,Portable Computers,11141222400.0
+2025-01-01,2,Cooling Systems,5229419008.0
+2025-01-02,2,Cooling Systems,6196759552.0
+2025-01-03,2,Cooling Systems,5818164224.0
+2025-01-04,2,Cooling Systems,6047217664.0
+2025-01-05,2,Cooling Systems,6539276800.0
+2025-01-06,2,Cooling Systems,6105056256.0
+2025-01-07,2,Cooling Systems,5863237632.0
+2025-01-08,2,Cooling Systems,6281980416.0
+2025-01-09,2,Cooling Systems,6313579008.0
+2025-01-10,2,Cooling Systems,5937276928.0
+2025-01-11,2,Cooling Systems,6219384832.0
+2025-01-12,2,Cooling Systems,6718682112.0
+2025-01-01,3,Frozen Storage Units,1432925568.0
+2025-01-02,3,Frozen Storage Units,1612384640.0
+2025-01-03,3,Frozen Storage Units,1801915776.0
+2025-01-04,3,Frozen Storage Units,1579233920.0
+2025-01-05,3,Frozen Storage Units,1772109440.0
+2025-01-06,3,Frozen Storage Units,1746391808.0
+2025-01-07,3,Frozen Storage Units,1636301568.0
+2025-01-08,3,Frozen Storage Units,1581424128.0
+2025-01-09,3,Frozen Storage Units,1547957120.0
+2025-01-10,3,Frozen Storage Units,1233837184.0
+2025-01-11,3,Frozen Storage Units,1423514368.0
+2025-01-12,3,Frozen Storage Units,1272221824.0
+2025-01-01,4,Laundry Machines,5446468096.0
+2025-01-02,4,Laundry Machines,6448214528.0
+2025-01-03,4,Laundry Machines,6859733504.0
+2025-01-04,4,Laundry Machines,6647896576.0
+2025-01-05,4,Laundry Machines,7133889024.0
+2025-01-06,4,Laundry Machines,6242281984.0
+2025-01-07,4,Laundry Machines,6277404672.0
+2025-01-08,4,Laundry Machines,6061874688.0
+2025-01-09,4,Laundry Machines,5848753152.0
+2025-01-10,4,Laundry Machines,5756098560.0
+2025-01-11,4,Laundry Machines,6189108736.0
+2025-01-12,4,Laundry Machines,6151323648.0
+2025-01-01,5,Dish Cleaning Machines,1487453568.0
+2025-01-02,5,Dish Cleaning Machines,1215163392.0
+2025-01-03,5,Dish Cleaning Machines,1706532736.0
+2025-01-04,5,Dish Cleaning Machines,1593872384.0
+2025-01-05,5,Dish Cleaning Machines,1597576448.0
+2025-01-06,5,Dish Cleaning Machines,1499187072.0
+2025-01-07,5,Dish Cleaning Machines,1476094208.0
+2025-01-08,5,Dish Cleaning Machines,1513362560.0
+2025-01-09,5,Dish Cleaning Machines,1516854656.0
+2025-01-10,5,Dish Cleaning Machines,1515629952.0
+2025-01-11,5,Dish Cleaning Machines,1603235840.0
+2025-01-12,5,Dish Cleaning Machines,1608851328.0
+2025-01-01,6,Microwave Cookers,1629098240.0
+2025-01-02,6,Microwave Cookers,1646244480.0
+2025-01-03,6,Microwave Cookers,1657280128.0
+2025-01-04,6,Microwave Cookers,1655638528.0
+2025-01-05,6,Microwave Cookers,1645898368.0
+2025-01-06,6,Microwave Cookers,1563609344.0
+2025-01-07,6,Microwave Cookers,1528188416.0
+2025-01-08,6,Microwave Cookers,1689739392.0
+2025-01-09,6,Microwave Cookers,1463086592.0
+2025-01-10,6,Microwave Cookers,1364275968.0
+2025-01-11,6,Microwave Cookers,1424217216.0
+2025-01-12,6,Microwave Cookers,1528245760.0
+2025-01-01,7,Kitchen Ventilation Systems,1000000000.0
+2025-01-02,7,Kitchen Ventilation Systems,1000000000.0
+2025-01-03,7,Kitchen Ventilation Systems,1000000000.0
+2025-01-04,7,Kitchen Ventilation Systems,1000000000.0
+2025-01-05,7,Kitchen Ventilation Systems,1000000000.0
+2025-01-06,7,Kitchen Ventilation Systems,1000000000.0
+2025-01-07,7,Kitchen Ventilation Systems,1000000000.0
+2025-01-08,7,Kitchen Ventilation Systems,1000000000.0
+2025-01-09,7,Kitchen Ventilation Systems,1000000000.0
+2025-01-10,7,Kitchen Ventilation Systems,1000000000.0
+2025-01-11,7,Kitchen Ventilation Systems,1000000000.0
+2025-01-12,7,Kitchen Ventilation Systems,1000000000.0
+2025-01-01,8,Integrated Stovetops,1436641664.0
+2025-01-02,8,Integrated Stovetops,1411446912.0
+2025-01-03,8,Integrated Stovetops,1523212672.0
+2025-01-04,8,Integrated Stovetops,1328078208.0
+2025-01-05,8,Integrated Stovetops,1354849280.0
+2025-01-06,8,Integrated Stovetops,1561816448.0
+2025-01-07,8,Integrated Stovetops,1514805376.0
+2025-01-08,8,Integrated Stovetops,1529605632.0
+2025-01-09,8,Integrated Stovetops,1348985088.0
+2025-01-10,8,Integrated Stovetops,1422108288.0
+2025-01-11,8,Integrated Stovetops,1487090560.0
+2025-01-12,8,Integrated Stovetops,1363294592.0
+2025-01-01,9,Cooking Appliances,1731297792.0
+2025-01-02,9,Cooking Appliances,1608956800.0
+2025-01-03,9,Cooking Appliances,1579372544.0
+2025-01-04,9,Cooking Appliances,1608370432.0
+2025-01-05,9,Cooking Appliances,1527696384.0
+2025-01-06,9,Cooking Appliances,1569459584.0
+2025-01-07,9,Cooking Appliances,1697940096.0
+2025-01-08,9,Cooking Appliances,1529024256.0
+2025-01-09,9,Cooking Appliances,1546652672.0
+2025-01-10,9,Cooking Appliances,1535230720.0
+2025-01-11,9,Cooking Appliances,1599504512.0
+2025-01-12,9,Cooking Appliances,1572421760.0
+2025-01-01,10,Baking Ovens,1663288576.0
+2025-01-02,10,Baking Ovens,1492929024.0
+2025-01-03,10,Baking Ovens,1097523328.0
+2025-01-04,10,Baking Ovens,1391445248.0
+2025-01-05,10,Baking Ovens,1410021376.0
+2025-01-06,10,Baking Ovens,1591457024.0
+2025-01-07,10,Baking Ovens,1732912768.0
+2025-01-08,10,Baking Ovens,1797241216.0
+2025-01-09,10,Baking Ovens,1695814400.0
+2025-01-10,10,Baking Ovens,1532196736.0
+2025-01-11,10,Baking Ovens,1692616192.0
+2025-01-12,10,Baking Ovens,1487812096.0
+2025-01-01,11,Climate Control Units,1000000000.0
+2025-01-02,11,Climate Control Units,1000000000.0
+2025-01-03,11,Climate Control Units,1000000000.0
+2025-01-04,11,Climate Control Units,1000000000.0
+2025-01-05,11,Climate Control Units,1000000000.0
+2025-01-06,11,Climate Control Units,1000000000.0
+2025-01-07,11,Climate Control Units,1000000000.0
+2025-01-08,11,Climate Control Units,1000000000.0
+2025-01-09,11,Climate Control Units,1000000000.0
+2025-01-10,11,Climate Control Units,1000000000.0
+2025-01-11,11,Climate Control Units,1000000000.0
+2025-01-12,11,Climate Control Units,1000000000.0
+2025-01-01,13,Digital Tablets,3668752384.0
+2025-01-02,13,Digital Tablets,3182338560.0
+2025-01-03,13,Digital Tablets,3086403584.0
+2025-01-04,13,Digital Tablets,3183313152.0
+2025-01-05,13,Digital Tablets,2925967616.0
+2025-01-06,13,Digital Tablets,2681233920.0
+2025-01-07,13,Digital Tablets,2714204416.0
+2025-01-08,13,Digital Tablets,2620199424.0
+2025-01-09,13,Digital Tablets,2930792448.0
+2025-01-10,13,Digital Tablets,3219807744.0
+2025-01-11,13,Digital Tablets,2685813248.0
+2025-01-12,13,Digital Tablets,2905266432.0
+2025-01-01,14,Display Screens,1608150144.0
+2025-01-02,14,Display Screens,1435909504.0
+2025-01-03,14,Display Screens,1475691136.0
+2025-01-04,14,Display Screens,1404101248.0
+2025-01-05,14,Display Screens,1621080960.0
+2025-01-06,14,Display Screens,1636753920.0
+2025-01-07,14,Display Screens,1743936384.0
+2025-01-08,14,Display Screens,1594028160.0
+2025-01-09,14,Display Screens,1578830976.0
+2025-01-10,14,Display Screens,1385350144.0
+2025-01-11,14,Display Screens,1556069888.0
+2025-01-12,14,Display Screens,1458459904.0
+2025-01-01,15,Mobile Phones & Refurbished Devices,35293454336.0
+2025-01-02,15,Mobile Phones & Refurbished Devices,35798999040.0
+2025-01-03,15,Mobile Phones & Refurbished Devices,34415407104.0
+2025-01-04,15,Mobile Phones & Refurbished Devices,39898488832.0
+2025-01-05,15,Mobile Phones & Refurbished Devices,36004917248.0
+2025-01-06,15,Mobile Phones & Refurbished Devices,37911756800.0
+2025-01-07,15,Mobile Phones & Refurbished Devices,37998317568.0
+2025-01-08,15,Mobile Phones & Refurbished Devices,36959662080.0
+2025-01-09,15,Mobile Phones & Refurbished Devices,35112427520.0
+2025-01-10,15,Mobile Phones & Refurbished Devices,39075393536.0
+2025-01-11,15,Mobile Phones & Refurbished Devices,40474103808.0
+2025-01-12,15,Mobile Phones & Refurbished Devices,35674566656.0
+2025-01-01,16,Flat-Screen TVs,12474645504.0
+2025-01-02,16,Flat-Screen TVs,13108343808.0
+2025-01-03,16,Flat-Screen TVs,11320525824.0
+2025-01-04,16,Flat-Screen TVs,12695303168.0
+2025-01-05,16,Flat-Screen TVs,11800639488.0
+2025-01-06,16,Flat-Screen TVs,12239058944.0
+2025-01-07,16,Flat-Screen TVs,13810522112.0
+2025-01-08,16,Flat-Screen TVs,12757575680.0
+2025-01-09,16,Flat-Screen TVs,12080423936.0
+2025-01-10,16,Flat-Screen TVs,11929906176.0
+2025-01-11,16,Flat-Screen TVs,11627229184.0
+2025-01-12,16,Flat-Screen TVs,12215393280.0
+2025-01-01,17,Floor Cleaning Devices,4913405440.0
+2025-01-02,17,Floor Cleaning Devices,5046249984.0
+2025-01-03,17,Floor Cleaning Devices,5256320512.0
+2025-01-04,17,Floor Cleaning Devices,5451419136.0
+2025-01-05,17,Floor Cleaning Devices,5356656128.0
+2025-01-06,17,Floor Cleaning Devices,5631645696.0
+2025-01-07,17,Floor Cleaning Devices,5835178496.0
+2025-01-08,17,Floor Cleaning Devices,5077985280.0
+2025-01-09,17,Floor Cleaning Devices,5262782464.0
+2025-01-10,17,Floor Cleaning Devices,5263324672.0
+2025-01-11,17,Floor Cleaning Devices,5352050688.0
+2025-01-12,17,Floor Cleaning Devices,5067677184.0
+2025-01-01,18,Fabric Care Appliances,1515826944.0
+2025-01-02,18,Fabric Care Appliances,1406512512.0
+2025-01-03,18,Fabric Care Appliances,1471229568.0
+2025-01-04,18,Fabric Care Appliances,1477891200.0
+2025-01-05,18,Fabric Care Appliances,1471749632.0
+2025-01-06,18,Fabric Care Appliances,1499040384.0
+2025-01-07,18,Fabric Care Appliances,1518486656.0
+2025-01-08,18,Fabric Care Appliances,1514792960.0
+2025-01-09,18,Fabric Care Appliances,1547469312.0
+2025-01-10,18,Fabric Care Appliances,1584336128.0
+2025-01-11,18,Fabric Care Appliances,1557454464.0
+2025-01-12,18,Fabric Care Appliances,1618963712.0
+2025-01-01,19,Electric Cookware,1000000000.0
+2025-01-02,19,Electric Cookware,1000000000.0
+2025-01-03,19,Electric Cookware,1000000000.0
+2025-01-04,19,Electric Cookware,1000000000.0
+2025-01-05,19,Electric Cookware,1000000000.0
+2025-01-06,19,Electric Cookware,1000000000.0
+2025-01-07,19,Electric Cookware,1000000000.0
+2025-01-08,19,Electric Cookware,1000000000.0
+2025-01-09,19,Electric Cookware,1000000000.0
+2025-01-10,19,Electric Cookware,1000000000.0
+2025-01-11,19,Electric Cookware,1000000000.0
+2025-01-12,19,Electric Cookware,1000000000.0
+2025-01-01,21,Smart Wearables,2537731328.0
+2025-01-02,21,Smart Wearables,2485545472.0
+2025-01-03,21,Smart Wearables,2419830784.0
+2025-01-04,21,Smart Wearables,2148094208.0
+2025-01-05,21,Smart Wearables,2546434304.0
+2025-01-06,21,Smart Wearables,2310342144.0
+2025-01-07,21,Smart Wearables,2345714944.0
+2025-01-08,21,Smart Wearables,2123961472.0
+2025-01-09,21,Smart Wearables,2320579584.0
+2025-01-10,21,Smart Wearables,2216969728.0
+2025-01-11,21,Smart Wearables,2326767872.0
+2025-01-12,21,Smart Wearables,2188510976.0
+2025-01-01,23,Hot Beverage Machines,1767939584.0
+2025-01-02,23,Hot Beverage Machines,1724631040.0
+2025-01-03,23,Hot Beverage Machines,1697814528.0
+2025-01-04,23,Hot Beverage Machines,1684508416.0
+2025-01-05,23,Hot Beverage Machines,1394866304.0
+2025-01-06,23,Hot Beverage Machines,1442044800.0
+2025-01-07,23,Hot Beverage Machines,1583838208.0
+2025-01-08,23,Hot Beverage Machines,1734779776.0
+2025-01-09,23,Hot Beverage Machines,1353203456.0
+2025-01-10,23,Hot Beverage Machines,1187728640.0
+2025-01-11,23,Hot Beverage Machines,1416147200.0
+2025-01-12,23,Hot Beverage Machines,1337061248.0
+2025-01-01,26,Kitchen Prep Appliances,1494095488.0
+2025-01-02,26,Kitchen Prep Appliances,1387289728.0
+2025-01-03,26,Kitchen Prep Appliances,1381425664.0
+2025-01-04,26,Kitchen Prep Appliances,1566425856.0
+2025-01-05,26,Kitchen Prep Appliances,1389578240.0
+2025-01-06,26,Kitchen Prep Appliances,1506802304.0
+2025-01-07,26,Kitchen Prep Appliances,1540175104.0
+2025-01-08,26,Kitchen Prep Appliances,1586627840.0
+2025-01-09,26,Kitchen Prep Appliances,1342749056.0
+2025-01-10,26,Kitchen Prep Appliances,1567335552.0
+2025-01-11,26,Kitchen Prep Appliances,1388328320.0
+2025-01-12,26,Kitchen Prep Appliances,1471778560.0
+2025-01-01,27,Electric Razors,1000000000.0
+2025-01-02,27,Electric Razors,1000000000.0
+2025-01-03,27,Electric Razors,1000000000.0
+2025-01-04,27,Electric Razors,1000000000.0
+2025-01-05,27,Electric Razors,1000000000.0
+2025-01-06,27,Electric Razors,1000000000.0
+2025-01-07,27,Electric Razors,1000000000.0
+2025-01-08,27,Electric Razors,1000000000.0
+2025-01-09,27,Electric Razors,1000000000.0
+2025-01-10,27,Electric Razors,1000000000.0
+2025-01-11,27,Electric Razors,1000000000.0
+2025-01-12,27,Electric Razors,1000000000.0
+2025-01-01,29,All-in-One Printers & Printers,1000000000.0
+2025-01-02,29,All-in-One Printers & Printers,1000000000.0
+2025-01-03,29,All-in-One Printers & Printers,1000000000.0
+2025-01-04,29,All-in-One Printers & Printers,1000000000.0
+2025-01-05,29,All-in-One Printers & Printers,1000000000.0
+2025-01-06,29,All-in-One Printers & Printers,1000000000.0
+2025-01-07,29,All-in-One Printers & Printers,1000000000.0
+2025-01-08,29,All-in-One Printers & Printers,1000000000.0
+2025-01-09,29,All-in-One Printers & Printers,1000000000.0
+2025-01-10,29,All-in-One Printers & Printers,1000000000.0
+2025-01-11,29,All-in-One Printers & Printers,1000000000.0
+2025-01-12,29,All-in-One Printers & Printers,1000000000.0
+2025-01-01,30,Electric Kettles & Heaters,1000000000.0
+2025-01-02,30,Electric Kettles & Heaters,1000000000.0
+2025-01-03,30,Electric Kettles & Heaters,1000000000.0
+2025-01-04,30,Electric Kettles & Heaters,1000000000.0
+2025-01-05,30,Electric Kettles & Heaters,1000000000.0
+2025-01-06,30,Electric Kettles & Heaters,1000000000.0
+2025-01-07,30,Electric Kettles & Heaters,1000000000.0
+2025-01-08,30,Electric Kettles & Heaters,1000000000.0
+2025-01-09,30,Electric Kettles & Heaters,1000000000.0
+2025-01-10,30,Electric Kettles & Heaters,1000000000.0
+2025-01-11,30,Electric Kettles & Heaters,1000000000.0
+2025-01-12,30,Electric Kettles & Heaters,1000000000.0
+2025-01-01,34,Sandwich Makers & Grills,1000000000.0
+2025-01-02,34,Sandwich Makers & Grills,1000000000.0
+2025-01-03,34,Sandwich Makers & Grills,1000000000.0
+2025-01-04,34,Sandwich Makers & Grills,1000000000.0
+2025-01-05,34,Sandwich Makers & Grills,1000000000.0
+2025-01-06,34,Sandwich Makers & Grills,1000000000.0
+2025-01-07,34,Sandwich Makers & Grills,1000000000.0
+2025-01-08,34,Sandwich Makers & Grills,1000000000.0
+2025-01-09,34,Sandwich Makers & Grills,1000000000.0
+2025-01-10,34,Sandwich Makers & Grills,1000000000.0
+2025-01-11,34,Sandwich Makers & Grills,1000000000.0
+2025-01-12,34,Sandwich Makers & Grills,1000000000.0
+2025-01-01,36,Mice & Keyboards,1472973824.0
+2025-01-02,36,Mice & Keyboards,1306970752.0
+2025-01-03,36,Mice & Keyboards,1549836416.0
+2025-01-04,36,Mice & Keyboards,1577354624.0
+2025-01-05,36,Mice & Keyboards,1595028864.0
+2025-01-06,36,Mice & Keyboards,1655454848.0
+2025-01-07,36,Mice & Keyboards,1614569728.0
+2025-01-08,36,Mice & Keyboards,1555375744.0
+2025-01-09,36,Mice & Keyboards,1713116928.0
+2025-01-10,36,Mice & Keyboards,1602010624.0
+2025-01-11,36,Mice & Keyboards,1595561728.0
+2025-01-12,36,Mice & Keyboards,1806523008.0
+2025-01-01,39,Desktop Computers,1679850880.0
+2025-01-02,39,Desktop Computers,1455011328.0
+2025-01-03,39,Desktop Computers,1584504576.0
+2025-01-04,39,Desktop Computers,1510738944.0
+2025-01-05,39,Desktop Computers,1591919872.0
+2025-01-06,39,Desktop Computers,1595963904.0
+2025-01-07,39,Desktop Computers,1572686080.0
+2025-01-08,39,Desktop Computers,1403074048.0
+2025-01-09,39,Desktop Computers,1309643008.0
+2025-01-10,39,Desktop Computers,1526384128.0
+2025-01-11,39,Desktop Computers,1390792064.0
+2025-01-12,39,Desktop Computers,1404770816.0
+2025-01-01,40,Audio Headsets,3846145024.0
+2025-01-02,40,Audio Headsets,3206253568.0
+2025-01-03,40,Audio Headsets,4387660288.0
+2025-01-04,40,Audio Headsets,4375607296.0
+2025-01-05,40,Audio Headsets,3504368640.0
+2025-01-06,40,Audio Headsets,4423293440.0
+2025-01-07,40,Audio Headsets,4155515136.0
+2025-01-08,40,Audio Headsets,4524781568.0
+2025-01-09,40,Audio Headsets,4371533824.0
+2025-01-10,40,Audio Headsets,3784391168.0
+2025-01-11,40,Audio Headsets,3742723072.0
+2025-01-12,40,Audio Headsets,3922959104.0
+2025-01-01,43,Communication Gadgets,1377732864.0
+2025-01-02,43,Communication Gadgets,1555680128.0
+2025-01-03,43,Communication Gadgets,1509833728.0
+2025-01-04,43,Communication Gadgets,1258775680.0
+2025-01-05,43,Communication Gadgets,1638124160.0
+2025-01-06,43,Communication Gadgets,1386014208.0
+2025-01-07,43,Communication Gadgets,1523493120.0
+2025-01-08,43,Communication Gadgets,1721485184.0
+2025-01-09,43,Communication Gadgets,1448440064.0
+2025-01-10,43,Communication Gadgets,1729061632.0
+2025-01-11,43,Communication Gadgets,1730473472.0
+2025-01-12,43,Communication Gadgets,1728781056.0
